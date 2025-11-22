@@ -1,0 +1,5 @@
+{
+  "name": "FitLife App",
+  "description": "Um aplicativo de fitness completo que gera treinos e dietas personalizados com base em algoritmos de saúde e biometria.",
+  "requestFramePermissions": []
+}
